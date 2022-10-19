@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-header {
+    background-color: #EAC926;
+}
+
+.body-container svg {
+    width: 100px;
+}
+
+.fa-solid .fa-hand-holding-dollar {
+    width: 20px;
+}
